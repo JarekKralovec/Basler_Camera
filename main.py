@@ -135,7 +135,7 @@ def capture_video(gain: float, exposure_time: float, file_name: str, seconds: in
 
 
 
-capture_video(5.0, 10000.0, "test_video2", 5, 60,30,1282,100, 0)
+#capture_video(5.0, 10000.0, "test_video2", 5, 60,30,1282,100, 0)
 #time.sleep(5)
 #capture_photo(5.0, 10000.0, "test_image", 50,200,30,30)
 
